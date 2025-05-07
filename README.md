@@ -1,4 +1,4 @@
-# Java 虚拟机底层原理知识总结main
+# Java 虚拟机底层原理知识总结
 
 <a href="https://github.com/doocs/jvm/actions?query=workflow%3ASync"><img src="https://github.com/doocs/jvm/workflows/Sync/badge.svg"></a>
 <a href="https://github.com/doocs/jvm/blob/main/LICENSE"><img src="https://badgen.net/github/license/doocs/jvm?color=green" alt="license"></a>
